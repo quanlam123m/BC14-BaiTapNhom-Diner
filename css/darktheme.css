@@ -1,0 +1,64 @@
+html body.dark {
+    background: #232220;
+}
+
+body.dark, body.dark p, 
+.dark .search__icon, 
+.dark .box-wrap h4 {
+    color: #c2d0da;
+}
+
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6 {
+    color: #eee;
+}
+
+.dark .title__aboutus, .dark .title {
+    color: #ff6600;
+}
+.dark .header__content .search__bar .search .search__input{
+    background: #232220;
+    border: #232220;
+    color: #c2d0da;
+}
+.dark .whatnew, .dark .features, 
+.dark .counter, .dark .footer__input-item {
+    background: #232220;
+}
+.dark .blog {
+    background: #000;
+}
+
+.dark .box-wrap {
+    background: #232220;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.dark h4 > a {
+    color: #c2d0da;
+}
+
+.dark .counter > div {
+    color: #eee;
+}
+
+.dark .blog__text > a, 
+.dark .blog__avatar > a {
+    color: #eee;
+}
+
+.dark .footer__social--icon a {
+    background-color: #232220;
+    color: #ff6600;
+}
+
+.dark .footer__social--icon a:hover {
+    background-color: #ff6600;
+    color: #fff;
+}
+
+
